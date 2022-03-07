@@ -1,0 +1,13 @@
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\bin\Release\netcoreapp3.1\3EnRayaDefinitivo.exe
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\bin\Release\netcoreapp3.1\3EnRayaDefinitivo.deps.json
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\bin\Release\netcoreapp3.1\3EnRayaDefinitivo.runtimeconfig.json
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\bin\Release\netcoreapp3.1\3EnRayaDefinitivo.runtimeconfig.dev.json
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\bin\Release\netcoreapp3.1\3EnRayaDefinitivo.dll
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\bin\Release\netcoreapp3.1\3EnRayaDefinitivo.pdb
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.csprojAssemblyReference.cache
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.AssemblyInfoInputs.cache
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.AssemblyInfo.cs
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.csproj.CoreCompileInputs.cache
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.dll
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.pdb
+C:\Users\destr\source\repos\3EnRayaDefinitivo\3EnRayaDefinitivo\obj\Release\netcoreapp3.1\3EnRayaDefinitivo.genruntimeconfig.cache
